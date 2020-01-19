@@ -1,0 +1,1 @@
+This is Rado's first git project!
